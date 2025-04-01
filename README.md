@@ -11,19 +11,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdoullah-maher-aaaa74354/" target="_blank">
-    <img src="/linked-in-alt.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="/linked-in-alt.svg"  height="50" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/abdoullah.nasr.7/" target="_blank">
-    <img src="/facebook.svg" width="52" height="40" alt="facebook logo" />
+    <img src="/facebook.svg"  height="50" alt="facebook logo" />
   </a>
   <a href="https://x.com/abdu_llahmaher" target="_blank">
-    <img src="/x.png" width="40" height="40" alt="x logo" />
+    <img src="/x.png"  height="50" alt="x logo" />
   </a>
   <a href="https://codeforces.com/profile/abdullahmaher284" target="_blank">
-    <img src="/codeforces.svg" width="52" height="52" alt="codeforces logo" />
+    <img src="/codeforces.svg"  height="50" alt="codeforces logo" />
   </a>
   <a href="wa.link/pr8byx" target="_blank">
-    <img src="/whatsapp-logo-transparent-shadow.png" width="52" height="50" alt="telegram logo" />
+    <img src="/whatsapp-logo-transparent-shadow.png"  height="50" alt="telegram logo" />
   </a>
 </div>
 
