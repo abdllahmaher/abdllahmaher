@@ -17,13 +17,13 @@
     <img src="/facebook.svg" width="52" height="40" alt="facebook logo" />
   </a>
   <a href="https://x.com/abdu_llahmaher" target="_blank">
-    <img src="/x.png" width="52" height="40" alt="x logo" />
+    <img src="/x.png" width="40" height="40" alt="x logo" />
   </a>
   <a href="https://codeforces.com/profile/abdullahmaher284" target="_blank">
-    <img src="/codeforces.svg" width="52" height="40" alt="codeforces logo" />
+    <img src="/codeforces.svg" width="52" height="52" alt="codeforces logo" />
   </a>
   <a href="wa.link/pr8byx" target="_blank">
-    <img src="/whatsapp-logo-transparent-shadow.png" width="52" height="40" alt="telegram logo" />
+    <img src="/whatsapp-logo-transparent-shadow.png" width="52" height="50" alt="telegram logo" />
   </a>
 </div>
 
