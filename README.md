@@ -36,7 +36,7 @@
 <div align="center">
   <img src="/html.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="/css3svg" height="40" alt="css3 logo" />
+  <img src="/css3.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="/C++.png" height="40" alt="css3 logo" />
   <img width="12" />
