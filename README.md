@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdoullah-maher-aaaa74354/" target="_blank">
+  <a href="https://www.linkedin.com/in/a-a-maher/" target="_blank">
     <img src="/linked-in-alt.svg"  height="40" alt="linkedin logo" />
 	  <img width=13>
   </a>
@@ -47,3 +47,4 @@
   <img width="12" />
 
 </div>
+
