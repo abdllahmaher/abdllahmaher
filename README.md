@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left"><img src = "/gif.gif" width=2%> Programming Languages</h2>
+<h2 align="left"><img src = "/gif.gif" width=2%>Languages</h2>
 
 ###
 
@@ -47,4 +47,5 @@
   <img width="12" />
 
 </div>
+
 
