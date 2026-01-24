@@ -1,4 +1,3 @@
-
 <h1>
 Abdullah Maher
 </h1>
@@ -20,23 +19,19 @@ Abdullah Maher
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-
 <!-- --- -->
-## Contact Me:
+## Find Me:
 <div align="center">
-<a href="https://x.com/abdu_llahmaher" target="_blank" style="margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/x" width="50" />
+<a href="https://x.com/abdu_llahmaher" target="_blank"">
+<img src="https://cdn.simpleicons.org/X/0A66C2" width="45" style="margin-bottom: 7px; margin-right:10px" />
 </a>
 
 <a href="https://www.linkedin.com/in/a-a-maher/" target="_blank" style="margin-right:10px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50" height="50">
-    <path fill="#000000" d="M22.23 0H1.77C.79 0 0 .774 0 1.728v20.543C0 23.227.79 24 1.77 24h20.46C23.21 24 24 23.227 24 22.271V1.728C24 .774 23.21 0 22.23 0zM7.06 20.452H3.54V9h3.52v11.452zM5.3 7.433c-1.13 0-2.05-.926-2.05-2.067 0-1.14.92-2.066 2.05-2.066 1.13 0 2.05.926 2.05 2.066 0 1.141-.92 2.067-2.05 2.067zm15.15 12.996h-3.52v-5.6c0-1.34-.03-3.07-1.87-3.07-1.87 0-2.16 1.46-2.16 2.97v5.7h-3.52V9h3.38v1.56h.05c.47-.89 1.62-1.83 3.34-1.83 3.57 0 4.23 2.34 4.23 5.37v6.92z"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="50" height="50" fill="#1DA1F2">
+    <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.2 0 53.8S24.09-.5 53.79-.5s53.79 24.9 53.79 53.3-24.1 53.3-53.79 53.3zM447.9 448h-92.68V302.4c0-34.7-12.4-58.4-43.4-58.4-23.7 0-37.8 15.9-44 31.3-2.3 5.5-2.8 13.1-2.8 20.8V448h-92.7s1.2-241.1 0-266.1h92.7v37.7c12.3-19 34.4-46.1 83.7-46.1 61.1 0 106.9 39.8 106.9 125.4V448z"/>
   </svg>
 </a>
-
 <a href="https://codeforces.com/profile/abdullahmaher284" target="_blank" style="margin-right:10px;">
   <img src="https://cdn.simpleicons.org/codeforces" width="50" />
 </a>
 </div>
-
-
