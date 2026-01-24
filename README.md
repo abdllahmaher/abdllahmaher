@@ -22,16 +22,16 @@ Abdullah Maher
 <!-- --- -->
 ## Find Me:
 <div align="center">
-<a href="https://x.com/abdu_llahmaher" target="_blank"">
-<img src="https://cdn.simpleicons.org/X/0A66C2" width="45" style="margin-bottom: 7px; margin-right:10px" />
-</a>
-
-<a href="https://www.linkedin.com/in/a-a-maher/" target="_blank" style="margin-right:10px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="50" height="50" fill="#1DA1F2">
-    <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.2 0 53.8S24.09-.5 53.79-.5s53.79 24.9 53.79 53.3-24.1 53.3-53.79 53.3zM447.9 448h-92.68V302.4c0-34.7-12.4-58.4-43.4-58.4-23.7 0-37.8 15.9-44 31.3-2.3 5.5-2.8 13.1-2.8 20.8V448h-92.7s1.2-241.1 0-266.1h92.7v37.7c12.3-19 34.4-46.1 83.7-46.1 61.1 0 106.9 39.8 106.9 125.4V448z"/>
-  </svg>
-</a>
-<a href="https://codeforces.com/profile/abdullahmaher284" target="_blank" style="margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/codeforces" width="50" />
-</a>
+  <a href="https://x.com/abdu_llahmaher" target="_blank">
+    <img src="https://cdn.simpleicons.org/X/0A66C2" width="45" style="margin: 0 5px; vertical-align: middle; margin-right:10px;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/a-a-maher/" target="_blank">
+    <img src="https://icons.duckduckgo.com/ip3/linkedin.com.ico" width="50" style="margin-right:10px; padding: 8px; border-radius: 0px;" alt="LinkedIn" />
+  </a>
+  </a>
+  
+  <a href="https://codeforces.com/profile/abdullahmaher284" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces" width="45" style="margin: 0 5px;  vertical-align: middle;" />
+  </a>
 </div>
