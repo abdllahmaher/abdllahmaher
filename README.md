@@ -29,7 +29,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-c4b8cf?style=for-the-badge&logo=express&logoColor=3a3f31)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-b5c9b0?style=for-the-badge&logo=mongodb&logoColor=3a3f31)
 
-## tools:<img src="https://media.tenor.com/nVwnoY-M36oAAAAi/white-cat.gif" width="50" style="vertical-align: bottom;">
+## tools:<img src="https://media.tenor.com/nVwnoY-M36oAAAAi/white-cat.gif" width="80" style="vertical-align: bottom;" align="right">
 
 ![Git](https://img.shields.io/badge/Git-e8c8c8?style=for-the-badge&logo=git&logoColor=3a3f31)
 ![Neovim](https://img.shields.io/badge/Neovim-b8a9d4?style=for-the-badge&logo=neovim&logoColor=3a3f31)
@@ -42,5 +42,5 @@
 ![x](https://img.shields.io/badge/X%2FTwitter-pink?logo=x&style=for-the-badge&logoColor=gray)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-d9dbbd?style=for-the-badge&logo=linkedin&logoColor=gray)
 
-<img src= "assets/cute-cut-cat-ezgif.com-gif-maker.gif" style="vertical-align:top;">
+<img src= "https://media.tenor.com/vbOYK-N4uDYAAAAi/cat.gif" style="vertical-align:top;" width="100%" height="200">
 <br>meow :3👋
